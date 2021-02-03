@@ -16,7 +16,7 @@ In addition to my PhD studies, I also work at the [Johns Hopkins Applied Physics
 ### Publications
 *Piecewise-Polynomial Outer Approximations of Obstacles for Optimization-Based Collision Avoidance*. J. Guthrie. Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2021. [PDF](/files/icra2021.pdf) [Video](https://youtu.be/6yH6LQh0eBU)
 
-*Outer Approximations of Minkowski Operations on Complex Sets via Sum-of-Squares Optimization*. J. Guthrie and E. Mallada. Submitted to IEEE American Control Conference (ACC) 2021. [PDF](/files/acc2021.pdf) 
+*Outer Approximations of Minkowski Operations on Complex Sets via Sum-of-Squares Optimization*. J. Guthrie and E. Mallada. Accepted to IEEE American Control Conference (ACC) 2021. [PDF](/files/acc2021.pdf) 
 
 *Minimum-Time Charging of Energy Storage in Microgrids via Approximate Conic Relaxation*. J. Guthrie and E. Mallada. In 19th IEEE European Control Conference (ECC), 2020. [PDF](/files/ecc2020.pdf) [Video](https://youtu.be/YiLRIwwCb4c)
 
